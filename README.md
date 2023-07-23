@@ -3,7 +3,7 @@
 <h2>👨‍💻 Business Intelligence Projects:</h2>
 
 - <b>T-SQL Project (SQLExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Dynamic SQL Column Names](https://github.com/BI-Muaazahmad/DynamicT-SQL/tree/main)
 
 
 <h2> Certifications </h2>
