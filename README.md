@@ -12,6 +12,7 @@
 <h2> Certifications </h2>
 
 - [Google Data Analytics Certificate ](https://www.credly.com/badges/bfcd58c0-0c31-41ea-9e73-dd535341bcfd/public_url)
+- [SQL(Hacker Rank)](https://www.hackerrank.com/certificates/de931c017b92)
 - [SQL For Data Science ](https://coursera.org/share/9c75c03d997e6bfb18c356fddd8a034e)
 - [Data-Driven Decisions with Power BI](https://coursera.org/share/d1523481cbf6fdf1c756fbdb10f023cf)
 
