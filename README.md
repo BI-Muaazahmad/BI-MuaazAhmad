@@ -4,6 +4,9 @@
 
 - <b>T-SQL Project (SQLExpert)</b>
   - [Dynamic SQL Column Names](https://github.com/BI-Muaazahmad/DynamicT-SQL/tree/main)
+ 
+- <b>PowerBI Project (PBIExpert)</b>
+  - [PBI Matrix Comparision](https://github.com/BI-Muaazahmad/PBIMatrixComparison/blob/main/README.md)
 
 
 <h2> Certifications </h2>
