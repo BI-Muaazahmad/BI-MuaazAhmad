@@ -6,6 +6,7 @@
   - [Dynamic SQL Column Names](https://github.com/BI-Muaazahmad/DynamicT-SQL/tree/main)
  
 - <b>PowerBI Project (PBIExpert)</b>
+  - [Dynamic Multi-Language Power BI Report](https://github.com/BI-Muaazahmad/PBIMatrixComparison/blob/main/README.md)
   - [PBI Matrix Comparision](https://github.com/BI-Muaazahmad/PBIMatrixComparison/blob/main/README.md)
 
 
