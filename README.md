@@ -7,9 +7,9 @@
  
 - <b>PowerBI Project (PBIExpert)</b>
   - [Multilingual Dynamic Power BI Report Conversion](https://github.com/BI-Muaazahmad/PBIMatrixComparison/blob/main/README.md)
-  - [PBI Matrix Comparision](https://github.com/BI-Muaazahmad/PBIMatrixComparison/blob/main/README.md)
   - [Forecast vs Actuals Analysis for Executives](https://github.com/BI-Muaazahmad/Forecast-vs-Actuals-Analysis-for-Executives/blob/main/README.md)
   - [Sales Analysis & Insights Dashboard](https://github.com/BI-Muaazahmad/Comprehensive-Sales-Analysis-and-Insights-Dashboard/blob/main/README.md)
+  - [Compare Matrix KPIs with difference & percentage](https://github.com/BI-Muaazahmad/Compare-Matrix-KPIs-with-difference-and-percentage/blob/main/README.md)
 
 
 <h2> Certifications </h2>
