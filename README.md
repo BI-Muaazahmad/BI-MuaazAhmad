@@ -9,7 +9,7 @@
   - [Multilingual Dynamic Power BI Report Conversion](https://github.com/BI-Muaazahmad/PBIMatrixComparison/blob/main/README.md)
   - [Forecast vs Actuals Analysis for Executives](https://github.com/BI-Muaazahmad/Forecast-vs-Actuals-Analysis-for-Executives/blob/main/README.md)
   - [Sales Analysis & Insights Dashboard](https://github.com/BI-Muaazahmad/Comprehensive-Sales-Analysis-and-Insights-Dashboard/blob/main/README.md)
-  - [Financial Performance Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzg0Mzg5Y2YtNzRlMS00NTM3LWFmMDktZDE3MjdkZWE4YmY1IiwidCI6ImYyYTVjZjdhLTczOTQtNGI4ZC05OGZkLTdhZjYwNjI1ZmU4MyIsImMiOjl9)
+  - [Financial Performance Insights Dashboard](https://github.com/BI-Muaazahmad/Financial-Performance-Insights-Dashboard/blob/main/README.md)
   - [Compare Matrix KPIs with difference & percentage](https://github.com/BI-Muaazahmad/Compare-Matrix-KPIs-with-difference-and-percentage/blob/main/README.md)
 
 
